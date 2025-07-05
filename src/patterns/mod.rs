@@ -1,0 +1,10 @@
+pub mod builder;
+pub mod fold;
+pub mod command;
+pub mod interpreter;
+pub mod newtype;
+pub mod strategy;
+pub mod visitor;
+pub mod observer;
+pub mod abstract_factory;
+pub mod adapter;

@@ -1,0 +1,14 @@
+[package]
+name = "oxidized-patterns"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[lib]
+name = "oxidized_patterns"
+path = "src/lib.rs"
+
+[[bin]]
+name = "oxidized-patterns"
+path = "src/main.rs"
